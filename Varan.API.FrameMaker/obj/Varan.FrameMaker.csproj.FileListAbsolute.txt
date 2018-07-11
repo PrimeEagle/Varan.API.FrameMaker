@@ -1,0 +1,5 @@
+D:\Docs\Visual Studio Projects\Varan.API.FrameMaker\bin\Debug\Varan.FrameMaker.dll
+D:\Docs\Visual Studio Projects\Varan.API.FrameMaker\bin\Debug\Varan.FrameMaker.pdb
+D:\Docs\Visual Studio Projects\Varan.API.FrameMaker\obj\Debug\ResolveAssemblyReference.cache
+D:\Docs\Visual Studio Projects\Varan.API.FrameMaker\obj\Debug\Varan.FrameMaker.dll
+D:\Docs\Visual Studio Projects\Varan.API.FrameMaker\obj\Debug\Varan.FrameMaker.pdb
